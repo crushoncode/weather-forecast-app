@@ -1,3 +1,5 @@
+import axios from 'axios';
+
 const API_KEY = '9937e63698d732c84b745c346b6444d3';
 const ROOT_URL = `http://api.openweathermap.org/data/2.5/forecast?appid=${API_KEY}`;
 
